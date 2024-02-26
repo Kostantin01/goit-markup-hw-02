@@ -30,7 +30,7 @@ body {
 .custom-class:hover {
     color: #404bbf;
 }
-custom-class:focus {
+.custom-class:focus {
     color: #404bbf;
     outline: none;
 }
