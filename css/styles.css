@@ -51,11 +51,11 @@ body {
     outline: none;
 }
 
-.Business {
+.business {
     background-color: #2e2f42;
 }
 
-.Business-heading {
+.business-heading {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -63,7 +63,7 @@ body {
     color: #ffffff;
 }
 
-.Business-button {
+.business-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -74,8 +74,8 @@ body {
     cursor: pointer;
 }
 
-.Business-button:hover,
-.Business-button:focus {
+.business-button:hover,
+.business-button:focus {
     background-color: #404BBF;
 }
 
