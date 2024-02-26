@@ -51,6 +51,24 @@ body {
     outline: none;
 }
 
+.phone {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.phone:hover {
+    color: #404bbf;
+}
+
+.phone:focus {
+    color: #404bbf;
+    outline: none;
+}
+
+
+
 h1,h2,h3 {
     font-family: 'Raleway', sans-serif;
 }
