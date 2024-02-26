@@ -23,13 +23,19 @@ body {
 
 .studio{
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-decoration: none;
-
 }
+.custom-class:hover {
+    color: #404bbf;
+}
+custom-class:focus {
+    color: #404bbf;
+    outline: none;
+}
+
+
 h1,h2,h3 {
     font-family: 'Raleway', sans-serif;
 }
