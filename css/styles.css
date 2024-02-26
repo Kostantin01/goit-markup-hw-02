@@ -51,6 +51,11 @@ body {
     outline: none;
 }
 
+.Business {
+    background-color: #2e2f42;
+}
+
+
 h1,h2,h3 {
     font-family: 'Raleway', sans-serif;
 }
