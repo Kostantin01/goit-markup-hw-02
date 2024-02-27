@@ -21,8 +21,6 @@ h1,h2,h3 {
 
 .logo>span.custom-class {
     color: #2e2f42;
-
-
 }
 
 .custom-class{
@@ -150,4 +148,10 @@ h1,h2,h3 {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+
+.footer-logo>span.footer-logo{
+    color: #f4f4fd;
+
 }
