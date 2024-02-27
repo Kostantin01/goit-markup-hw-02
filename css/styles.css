@@ -98,11 +98,11 @@ h1,h2,h3 {
     color: #434455;
 }
 
-.main-list{
-    background-color:#F4F4FD;
+.team {
+    background-color: #F4F4FD;
 }
 
-.main-title{
+.team-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -111,11 +111,11 @@ h1,h2,h3 {
     color: #2e2f42;
 }
 
-.main-content{
+.team-member {
     background-color: #FFFFFF;
 }
 
-.main-content-name{
+.team-member-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -123,7 +123,7 @@ h1,h2,h3 {
     color: #2e2f42;
 }
 
-.main-content-role{
+.team-member-role {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
