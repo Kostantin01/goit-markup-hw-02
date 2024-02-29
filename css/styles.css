@@ -5,8 +5,18 @@ body {
     background-color: #FFFFFF;
 }
 
+
 h1,h2,h3 {
     font-family: 'Raleway', sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
 }
 
 .logo {
@@ -178,3 +188,5 @@ h1,h2,h3 {
     color: #f4f4fd;
 
 }
+
+
